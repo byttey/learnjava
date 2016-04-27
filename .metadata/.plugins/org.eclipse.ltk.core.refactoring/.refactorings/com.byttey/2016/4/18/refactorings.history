@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;tutorial.NewThread&apos; to &apos;ThreadDemo&apos;&#x0D;&#x0A;- Original project: &apos;com.byttey&apos;&#x0D;&#x0A;- Original element: &apos;tutorial.NewThread&apos;&#x0D;&#x0A;- Renamed element: &apos;tutorial.ThreadDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NewThread&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;tutorial{NewThread.java[NewThread" matchStrategy="1" name="ThreadDemo" qualified="false" references="true" similarDeclarations="true" stamp="1461754204028" textual="true" version="1.0"/>
+</session>
